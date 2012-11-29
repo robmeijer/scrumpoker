@@ -5,3 +5,23 @@ body {
 .ws-button {
 	display: inline-block; width: 45%;
 }
+
+#button-1, #button-2, #button-3, #button-4, #button-5, #button-6, #button-7, #button-8, #button-9, #button-10, #button-11, #button-12, #button-13 {
+	margin-top: 500px;
+	margin-bottom: 500px;
+	padding: 60px 0;
+}
+
+#button-1 h1, #button-2 h1, #button-3 h1, #button-4 h1, #button-5 h1, #button-6 h1, #button-7 h1, #button-8 h1, #button-9 h1, #button-10 h1, #button-11 h1, #button-12 h1, #button-13 h1 {
+	font-size: 220px;
+	height: 400px;
+	line-height: 400px;
+}
+
+#button-5 h1 {
+	font-size: 110px;
+}
+
+#button-10 h1, #button-11 h1, #button-12 h1 {
+	font-size: 190px;
+}
