@@ -3,7 +3,8 @@ body {
 }
 
 .ws-button {
-	display: inline-block; width: 45%;
+	display: inline-block;
+	width: 45%;
 }
 
 #button-1, #button-2, #button-3, #button-4, #button-5, #button-6, #button-7, #button-8, #button-9, #button-10, #button-11, #button-12, #button-13 {
